@@ -13,6 +13,7 @@ node{
          color: 'good', 
          message: 'Welcome to jenkins', 
          teamDomain: 'Jenkins-Pipeline-Demo', 
+         tokenCredentialId: 'Slack', 
          username: 'Jenkins-Pipeline-Demo'
   }
   }
