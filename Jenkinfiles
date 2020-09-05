@@ -12,7 +12,8 @@ node{
          channel: '#jenkins-pipeline', 
          color: 'good', 
          message: 'Welcome to jenkins', 
-         teamDomain: 'Jenkins-Pipeline-Demo'
+         teamDomain: 'Jenkins-Pipeline-Demo', 
+         username: 'Jenkins-Pipeline-Demo'
   }
   }
    
